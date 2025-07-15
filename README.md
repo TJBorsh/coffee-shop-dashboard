@@ -44,7 +44,7 @@ This project contains an Excel dashboard analyzing coffee shop sales data. It pr
 
 ## 📂 File
 
-- `Coffee Shop Sales - Project Dashboard.xlsx`
+- `Coffee-Shop-Sales-Project-Dashboard.xlsx`
 
 ---
 
