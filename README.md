@@ -1,5 +1,8 @@
 # 📊 Coffee Shop Sales Dashboard
 
+![Dashboard Screenshot](dashboard-screenshot.png)
+
+
 **Coffee Shop Sales - Project Dashboard.xlsx**
 
 This project contains an Excel dashboard analyzing coffee shop sales data. It provides insights into sales trends, product performance, and customer behavior, supporting data-driven decisions for coffee shop management.
