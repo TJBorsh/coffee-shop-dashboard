@@ -1,6 +1,6 @@
 # 📊 Coffee Shop Sales Dashboard
 
-![Dashboard Screenshot](dashboard-screenshot.png)
+![Dashboard Screenshot](Coffee-Shop-Sales-Project-Dashboard.png)
 
 
 **Coffee Shop Sales - Project Dashboard.xlsx**
